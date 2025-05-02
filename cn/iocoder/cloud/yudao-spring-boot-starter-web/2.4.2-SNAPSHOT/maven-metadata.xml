@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata modelVersion="1.1.0">
+  <groupId>cn.iocoder.cloud</groupId>
+  <artifactId>yudao-spring-boot-starter-web</artifactId>
+  <versioning>
+    <lastUpdated>20250502085509</lastUpdated>
+    <snapshot>
+      <timestamp>20250502.085509</timestamp>
+      <buildNumber>1</buildNumber>
+    </snapshot>
+    <snapshotVersions>
+      <snapshotVersion>
+        <extension>jar</extension>
+        <value>2.4.2-20250502.085509-1</value>
+        <updated>20250502085509</updated>
+      </snapshotVersion>
+      <snapshotVersion>
+        <extension>pom</extension>
+        <value>2.4.2-20250502.085509-1</value>
+        <updated>20250502085509</updated>
+      </snapshotVersion>
+    </snapshotVersions>
+  </versioning>
+  <version>2.4.2-SNAPSHOT</version>
+</metadata>

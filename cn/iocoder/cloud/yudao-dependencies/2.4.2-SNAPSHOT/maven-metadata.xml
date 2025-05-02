@@ -3,16 +3,16 @@
   <groupId>cn.iocoder.cloud</groupId>
   <artifactId>yudao-dependencies</artifactId>
   <versioning>
-    <lastUpdated>20250502081903</lastUpdated>
+    <lastUpdated>20250502085509</lastUpdated>
     <snapshot>
-      <timestamp>20250502.081903</timestamp>
-      <buildNumber>5</buildNumber>
+      <timestamp>20250502.085509</timestamp>
+      <buildNumber>1</buildNumber>
     </snapshot>
     <snapshotVersions>
       <snapshotVersion>
         <extension>pom</extension>
-        <value>2.4.2-20250502.081903-5</value>
-        <updated>20250502081903</updated>
+        <value>2.4.2-20250502.085509-1</value>
+        <updated>20250502085509</updated>
       </snapshotVersion>
     </snapshotVersions>
   </versioning>
